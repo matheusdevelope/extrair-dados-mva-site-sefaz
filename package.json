@@ -1,0 +1,9 @@
+{
+  "name": "extrair-mva-site-sefaz",
+  "author": {
+    "name": "Matheus"
+  },
+  "dependencies": {
+    "puppeteer": "^16.1.0"
+  }
+}
